@@ -3,6 +3,9 @@ date: 2022-01-31
 categories:
   - Hello
   - World
+tags:
+  - fuga
+  - piyo
 ---
 
 # Text Formatting
