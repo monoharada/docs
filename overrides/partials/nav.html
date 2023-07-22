@@ -58,7 +58,7 @@
   {% endif %}
 
   <!-- Render item list -->
-  <ul class="md-nav__list" data-md-scrollfix hx-boost="true">
+  <ul class="md-nav__list" data-md-scrollfix hx-boost="true" hx-push-url="true">
     {% for nav_item in nav %}
       {% set path = "__nav_" ~ loop.index %}
       {% set level = 1 %}
