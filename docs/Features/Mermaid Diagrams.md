@@ -1,4 +1,4 @@
-# Mermaid diagrams
+# diagrams
 
 Here's the example from [MkDocs Material documentation](https://squidfunk.github.io/mkdocs-material/reference/diagrams/#using-flowcharts): 
 
