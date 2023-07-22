@@ -2,6 +2,7 @@ site_name: モノハラダ 公開ドキュメント
 
 theme:
     name: 'material'
+    language: 'ja'
     palette:
 
     # Light mode
