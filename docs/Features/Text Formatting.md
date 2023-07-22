@@ -1,5 +1,11 @@
-# Text Formatting 
+---
+date: 2022-01-31
+categories:
+  - Hello
+  - World
+---
 
+# Text Formatting
 You can have lists like this
 
 - first
