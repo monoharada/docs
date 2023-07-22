@@ -1,4 +1,4 @@
-# Test
+# Test!
 
 Publish your public notes with MkDocs
 
