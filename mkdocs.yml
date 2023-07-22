@@ -51,7 +51,9 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - tags:
+      tags_file: tags.md
 
 
 extra_javascript:
