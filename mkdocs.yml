@@ -64,6 +64,7 @@ plugins:
   - roamlinks
   - tags:
       tags_file: tags.md
+  - optimize
 
 
 extra_javascript:
