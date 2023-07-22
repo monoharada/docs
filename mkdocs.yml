@@ -29,6 +29,8 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:harada@monosus.co.jp 
+    - icon: fontawesome/brands/github
+      link: https://github.com/monoharada/docs
 
 # Extensions
 markdown_extensions:
