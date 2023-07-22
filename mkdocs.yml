@@ -3,6 +3,8 @@ site_name: モノハラダ 公開ドキュメント
 theme:
     name: 'material'
     language: 'ja'
+    features:
+      - navigation.footer
     palette:
 
     # Light mode
@@ -22,6 +24,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:harada@monosus.co.jp 
 
 # Extensions
 markdown_extensions:
